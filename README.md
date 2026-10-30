@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Nagula Srinija Header Banner" width="100%" />
+<img src="./assets/header.jpg" alt="Nagula Srinija Header Banner" width="100%" />
 
 <br/><br/>
 
