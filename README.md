@@ -166,9 +166,9 @@ Core Focus: API Development, Robust Backend Architecture, Test Automation, Debug
 ### <img src="./assets/bar-indigo.svg" height="18" valign="middle"/> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinija012&show_icons=true&theme=radical&hide_border=false&count_private=true&title_color=EC4899&icon_color=7C3AED&text_color=94A3B8&bg_color=0D1117" alt="Srinija's GitHub Stats" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinija012&theme=radical" alt="Srinija's GitHub Stats" height="175" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinija012&layout=compact&theme=radical&hide_border=false&title_color=EC4899&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Srinija012&theme=radical" alt="GitHub Streak Stats" height="175" />
 </div>
 
 ---
