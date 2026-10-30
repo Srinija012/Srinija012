@@ -1,0 +1,56 @@
+<svg fill="none" viewBox="0 0 800 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="25%" stop-color="#1E3A8A" />
+      <stop offset="65%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+    <linearGradient id="accentGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#F472B6" stop-opacity="0.8"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="800" height="200" rx="16" fill="url(#headerGrad)"/>
+
+  <!-- Decorative Modern Geometric Elements -->
+  <circle cx="720" cy="40" r="80" fill="#EC4899" opacity="0.15" />
+  <circle cx="640" cy="160" r="60" fill="#7C3AED" opacity="0.25" />
+  <circle cx="80" cy="180" r="90" fill="#1E3A8A" opacity="0.3" />
+
+  <!-- Code/Tech Subtle Icon Accent -->
+  <g opacity="0.12" stroke="#FFFFFF" stroke-width="2" fill="none">
+    <path d="M 680 85 L 660 100 L 680 115" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 720 85 L 740 100 L 720 115" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="705" y1="83" x2="695" y2="117" stroke-linecap="round"/>
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(48, 0)">
+    <!-- Subtitle / Status Chip -->
+    <rect x="0" y="32" width="168" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1"/>
+    <circle cx="14" cy="45" r="4" fill="#10B981"/>
+    <text x="26" y="49" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">OPEN TO OPPORTUNITIES</text>
+
+    <!-- Main Name -->
+    <text x="0" y="100" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-0.5">Nagula Srinija</text>
+
+    <!-- Role / Title -->
+    <text x="0" y="134" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0.2">Software Engineer <tspan fill="#F472B6">•</tspan> Java Backend Developer</text>
+
+    <!-- Location & Focus Brief -->
+    <g transform="translate(0, 162)">
+      <!-- Map Pin SVG -->
+      <path d="M 3 1 C 1.34 1 0 2.34 0 4 C 0 6.25 3 10 3 10 C 3 10 6 6.25 6 4 C 6 2.34 4.66 1 3 1 Z M 3 5 C 2.45 5 2 4.55 2 4 C 2 3.45 2.45 3 3 3 C 3.55 3 4 3.45 4 4 C 4 4.55 3.55 5 3 5 Z" fill="#94A3B8" transform="scale(1.2) translate(0, -1)"/>
+      <text x="14" y="9" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">Hyderabad, India</text>
+
+      <text x="135" y="9" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Reliable APIs &amp; Robust Automated Testing</text>
+    </g>
+  </g>
+</svg>
